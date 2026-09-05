@@ -1,0 +1,17 @@
+{
+    "name": "yahel_hr/yano-customizer",
+    "description": "Yano Customizer Framework Plugin",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    	"psr-4": { 
+    		"Inc\\": 	"./inc",
+    		"Core\\":  	"./core",
+    		"Field\\":	"./field",
+    		"Lib\\": 	"./lib",
+            "Control\\": "./control"
+    	}
+    }
+}

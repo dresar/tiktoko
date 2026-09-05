@@ -1,0 +1,969 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tikstore\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-26 14:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: tikstore"
+
+#: comments.php:48 comments-tikstore-product.php:48
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: classes/order.php:655
+msgid "&nbsp;"
+msgstr ""
+
+#: classes/payment-methods/manual-bank-transfer.php:170
+msgid "Account Name"
+msgstr ""
+
+#: classes/payment-methods/manual-bank-transfer.php:187
+msgid "Account Number"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:121
+msgid "Account Type"
+msgstr ""
+
+#: classes/payment-methods/manual-bank-transfer.php:59
+#, php-format
+msgid "Activate %s payment method"
+msgstr ""
+
+#: classes/product.php:223
+msgid "Add Another variation"
+msgstr ""
+
+#: classes/product.php:31 classes/order.php:152
+msgid "Add New"
+msgstr ""
+
+#: classes/product.php:80
+msgid "Add New Category"
+msgstr ""
+
+#: classes/order.php:153
+msgid "Add New order"
+msgstr ""
+
+#: classes/product.php:32
+msgid "Add New Product"
+msgstr ""
+
+#: single-tikstore-product.php:68
+msgid "Add to cart"
+msgstr ""
+
+#: functions/setup.php:321
+msgid "Added to cart"
+msgstr ""
+
+#: classes/order.php:425 template-parts/checkout-customer.php:199
+msgid "Address"
+msgstr ""
+
+#: template-parts/checkout-customer.php:128
+msgid "Address Information"
+msgstr ""
+
+#: classes/customizer.php:420
+msgid "Admin Phones"
+msgstr ""
+
+#: classes/product.php:75
+msgid "All Categories"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:113
+msgid "Api key"
+msgstr ""
+
+#: classes/notifications/responic.php:137
+msgid "Api token"
+msgstr ""
+
+#: classes/product.php:226
+msgid "Are you sure you want to remove?"
+msgstr ""
+
+#: functions/setup.php:328
+msgid "Are yu sure?"
+msgstr ""
+
+#: classes/product.php:192
+msgid "Blue, Red, or White"
+msgstr ""
+
+#: single-tikstore-product.php:71
+msgid "Buy Now"
+msgstr ""
+
+#: functions/setup.php:326
+msgid "Cancel"
+msgstr ""
+
+#: classes/customizer.php:603
+msgid "Canceled"
+msgstr ""
+
+#: classes/order.php:232
+#, php-format
+msgid "Canceled <span class=\"count\">(%s)</span>"
+msgid_plural "Canceled <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/product.php:82
+msgid "Categories"
+msgstr ""
+
+#: template-parts/checkout-payment-method.php:20
+#: template-parts/checkout-shipping.php:48
+msgid "Change"
+msgstr ""
+
+#: page-cart.php:79
+msgid "Check all"
+msgstr ""
+
+#: page-cart.php:90
+msgid "Check out"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:146 classes/shippings/rajaongkir.php:185
+#: classes/shippings/rajaongkir.php:208
+msgid "Check to enable courier on this site"
+msgstr ""
+
+#: template-parts/checkout-payment-method.php:40
+msgid "Choose payment method"
+msgstr ""
+
+#: template-parts/checkout-shipping.php:25
+msgid "Choose shipping courier"
+msgstr ""
+
+#: template-parts/component-product-summary.php:4
+msgid "Color"
+msgstr ""
+
+#: comments.php:44 comments-tikstore-product.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:19 comments-tikstore-product.php:19
+#, php-format
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/setup.php:331
+msgid "Complete this filed"
+msgstr ""
+
+#: classes/customizer.php:567
+msgid "Completed"
+msgstr ""
+
+#: classes/order.php:220
+#, php-format
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: single-tikstore-product.php:34 template-parts/checkout-payment-method.php:82
+#: template-parts/checkout-shipping.php:91
+msgid "Confirm"
+msgstr ""
+
+#: page-thank.php:134
+msgid "Contact admin"
+msgstr ""
+
+#: template-parts/checkout-customer.php:76
+msgid "Contact Information"
+msgstr ""
+
+#: classes/order.php:394 classes/order.php:650
+msgid "Customer"
+msgstr ""
+
+#: comments-tikstore-product.php:78
+msgid "Customer Reviews"
+msgstr ""
+
+#: template-parts/checkout-shipping.php:71
+msgid "Days"
+msgstr ""
+
+#: page-cart.php:97
+msgid "Delete"
+msgstr ""
+
+#: header.php:72 classes/payment-methods/manual-bank-transfer.php:108
+msgid "Description"
+msgstr ""
+
+#: classes/order.php:574
+msgid "Detail"
+msgstr ""
+
+#: page-cart.php:87
+msgid "Discount"
+msgstr ""
+
+#: page-cart.php:58
+msgid "Done"
+msgstr ""
+
+#: page-cart.php:55 classes/product.php:33 classes/order.php:154
+msgid "Edit"
+msgstr ""
+
+#: classes/product.php:78
+msgid "Edit Category"
+msgstr ""
+
+#: classes/order.php:155
+msgid "Edit order"
+msgstr ""
+
+#: classes/product.php:34
+msgid "Edit Product"
+msgstr ""
+
+#: classes/product.php:240
+msgid "Empty this field if variation doesn't have a custom pricing"
+msgstr ""
+
+#: classes/customizer.php:675
+msgid "Facebook Pixel"
+msgstr ""
+
+#: classes/product.php:168
+msgid "Fill 0 if this product is out off stock"
+msgstr ""
+
+#: classes/product.php:147
+msgid "Fill price without money format and must be higher from price"
+msgstr ""
+
+#: classes/product.php:131
+msgid "Fill price without money format, Ex: 1000 for one thousand"
+msgstr ""
+
+#: classes/customizer.php:92
+msgid "Footer"
+msgstr ""
+
+#: classes/customizer.php:93
+msgid "Footer Option"
+msgstr ""
+
+#: classes/customizer.php:771
+msgid "Footer widget payments info"
+msgstr ""
+
+#: classes/customizer.php:810
+msgid "Footer widget shippings info"
+msgstr ""
+
+#: template-parts/checkout-shipping.php:9
+msgid "From:"
+msgstr ""
+
+#: template-parts/checkout-customer.php:83
+msgid "Full Name"
+msgstr ""
+
+#: classes/customizer.php:63
+msgid "Generaal Option"
+msgstr ""
+
+#: classes/customizer.php:62 classes/customizer.php:389
+#: classes/customizer.php:412
+msgid "General"
+msgstr ""
+
+#: 404.php:20
+msgid "Go Home"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://tikstore.id"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:248
+msgid "Invalid destination id"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:244
+msgid "Invalid origin id"
+msgstr ""
+
+#: functions/setup.php:322
+msgid "Item deleted"
+msgstr ""
+
+#: page-checkout.php:79 classes/order.php:649
+msgid "Items"
+msgstr ""
+
+#. Description of the theme
+msgid "Like tiktok wordpress store theme."
+msgstr ""
+
+#: template-parts/checkout-customer.php:155
+msgid "Loading..."
+msgstr ""
+
+#: classes/payment-methods/transfer-bank-bca.php:20
+msgid "Manual transfer to bank BCA via Mobile, ATM or Teller"
+msgstr ""
+
+#: classes/payment-methods/transfer-bank-bni.php:22
+msgid "Manual transfer to bank Bni via Mobile, ATM or Teller"
+msgstr ""
+
+#: classes/payment-methods/transfer-bank-bri.php:22
+msgid "Manual transfer to bank BRI via Mobile, ATM or Teller"
+msgstr ""
+
+#: classes/payment-methods/transfer-bank-bsi.php:22
+msgid "Manual transfer to bank Bsi via Mobile, ATM or Teller"
+msgstr ""
+
+#: classes/payment-methods/transfer-bank-cimbniaga.php:22
+msgid "Manual transfer to bank Cimb Niaga via Mobile, ATM or Teller"
+msgstr ""
+
+#: classes/payment-methods/transfer-bank-mandiri.php:22
+msgid "Manual transfer to bank Mandiri via Mobile, ATM or Teller"
+msgstr ""
+
+#: classes/payment-methods/transfer-bank-permata.php:22
+msgid "Manual transfer to bank Permata via Mobile, ATM or Teller"
+msgstr ""
+
+#: classes/payment-methods/transfer-bank-seabank.php:22
+msgid "Manual transfer to bank Seabank via Mobile, ATM or Teller"
+msgstr ""
+
+#: classes/customizer.php:332
+msgid "Marketplace"
+msgstr ""
+
+#: classes/customizer.php:333
+msgid "marketplace setting"
+msgstr ""
+
+#: classes/customizer.php:469 classes/customizer.php:520
+#: classes/customizer.php:557 classes/customizer.php:593
+#: classes/customizer.php:629 classes/customizer.php:665
+msgid "Message"
+msgstr ""
+
+#: classes/customizer.php:484
+msgid "Message for admin"
+msgstr ""
+
+#: classes/order.php:400
+msgid "Name"
+msgstr ""
+
+#: page-thank.php:125
+msgid "Need help?"
+msgstr ""
+
+#: classes/product.php:81
+msgid "New Category Name"
+msgstr ""
+
+#: classes/customizer.php:443
+msgid "New Order"
+msgstr ""
+
+#: classes/order.php:156
+msgid "New order"
+msgstr ""
+
+#: classes/order.php:184
+#, php-format
+msgid "New Order <span class=\"count\">(%s)</span>"
+msgid_plural "New Order <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/product.php:35
+msgid "New Product"
+msgstr ""
+
+#: comments.php:54 comments-tikstore-product.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: index.php:33
+msgid "Next Page"
+msgstr ""
+
+#: classes/order.php:517
+msgid "No notifications found"
+msgstr ""
+
+#: classes/order.php:160
+msgid "No orders found"
+msgstr ""
+
+#: classes/order.php:161
+msgid "No orders found in Trash"
+msgstr ""
+
+#: page-blog.php:54
+msgid "No posts found"
+msgstr ""
+
+#: template-parts/cart-item-empty.php:9
+msgid "No product on your cart"
+msgstr ""
+
+#: classes/product.php:39
+msgid "No Products found"
+msgstr ""
+
+#: index.php:56
+msgid "No products found"
+msgstr ""
+
+#: classes/product.php:40
+msgid "No Products found in Trash"
+msgstr ""
+
+#: template-parts/checkout-customer.php:150
+msgid "Not found"
+msgstr ""
+
+#: classes/order.php:483 classes/customizer.php:80
+msgid "Notification"
+msgstr ""
+
+#: classes/customizer.php:413
+msgid "Notification general setting"
+msgstr ""
+
+#: classes/customizer.php:444
+msgid "Notification new order message"
+msgstr ""
+
+#: classes/customizer.php:604
+msgid "Notification on canceled message"
+msgstr ""
+
+#: classes/customizer.php:568
+msgid "Notification on completed message"
+msgstr ""
+
+#: classes/customizer.php:495
+msgid "Notification on hold message"
+msgstr ""
+
+#: classes/customizer.php:640
+msgid "Notification on refunded message"
+msgstr ""
+
+#: classes/customizer.php:531
+msgid "Notification on shipping message"
+msgstr ""
+
+#: classes/customizer.php:81
+msgid "Notification option"
+msgstr ""
+
+#: classes/customizer.php:429
+msgid "Notification Provider"
+msgstr ""
+
+#: classes/customizer.php:494
+msgid "On Hold"
+msgstr ""
+
+#: classes/order.php:196
+#, php-format
+msgid "On Hold <span class=\"count\">(%s)</span>"
+msgid_plural "On Hold <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/customizer.php:530
+msgid "On Shipping"
+msgstr ""
+
+#: classes/order.php:208
+#, php-format
+msgid "On Shipping <span class=\"count\">(%s)</span>"
+msgid_plural "On Shipping <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/order.php:150 classes/order.php:151
+msgid "Order"
+msgstr ""
+
+#: single-tikstore-product.php:78
+msgid "Out of stock"
+msgstr ""
+
+#. Name of the template
+msgid "Page Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Page Cart"
+msgstr ""
+
+#. Name of the template
+msgid "Page Checkout"
+msgstr ""
+
+#. Name of the template
+msgid "Page Payment"
+msgstr ""
+
+#: classes/product.php:76
+msgid "Parent Category"
+msgstr ""
+
+#: classes/product.php:77
+msgid "Parent Category:"
+msgstr ""
+
+#: footer.php:11
+msgid "Payment"
+msgstr ""
+
+#: classes/customizer.php:74
+msgid "Payment Method"
+msgstr ""
+
+#: template-parts/checkout-payment-method.php:4
+msgid "Payment method"
+msgstr ""
+
+#: classes/customizer.php:75
+msgid "Payment method option"
+msgstr ""
+
+#: classes/order.php:417
+msgid "Phone"
+msgstr ""
+
+#: classes/order.php:408
+msgid "Phone Code"
+msgstr ""
+
+#: template-parts/checkout-customer.php:101
+msgid "Phone Number"
+msgstr ""
+
+#: page-checkout.php:88
+msgid "Place Order"
+msgstr ""
+
+#: functions/setup.php:338
+msgid "Please select a payment method first"
+msgstr ""
+
+#: functions/setup.php:335
+msgid "Please select a shipping method first"
+msgstr ""
+
+#: classes/order.php:230
+msgctxt "post status label"
+msgid "Canceled"
+msgstr ""
+
+#: classes/order.php:218
+msgctxt "post status label"
+msgid "Completed"
+msgstr ""
+
+#: classes/order.php:182
+msgctxt "post status label"
+msgid "New Order"
+msgstr ""
+
+#: classes/order.php:194
+msgctxt "post status label"
+msgid "On Hold"
+msgstr ""
+
+#: classes/order.php:206
+msgctxt "post status label"
+msgid "On Shipping"
+msgstr ""
+
+#: classes/order.php:242
+msgctxt "post status label"
+msgid "Refunded"
+msgstr ""
+
+#: index.php:33
+msgid "Previous Page"
+msgstr ""
+
+#: functions/setup.php:44
+msgid "Primary Menu"
+msgstr ""
+
+#: page-checkout.php:98
+msgid "Processing ..."
+msgstr ""
+
+#: classes/product.php:29 classes/product.php:30
+msgid "Product"
+msgstr ""
+
+#: template-parts/content-product.php:36
+msgid "Product description"
+msgstr ""
+
+#: template-parts/component-product-summary.php:23
+msgid "Quantity"
+msgstr ""
+
+#: classes/customizer.php:402 classes/shippings/rajaongkir.php:105
+msgid "Rajaongkir"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:122
+msgid "Rajaongkir account type"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:114
+msgid "Rajaongkir Api key"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:234
+msgid "Rajaongkir api key not set"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:255
+msgid "Rajaongkir couriers not set"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:240
+msgid "Rajaongkir origin id not set"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:106
+msgid "Rajaongkir setting"
+msgstr ""
+
+#: header.php:75
+msgid "Recomendations"
+msgstr ""
+
+#: classes/customizer.php:639
+msgid "Refunded"
+msgstr ""
+
+#: classes/order.php:244
+#, php-format
+msgid "Refunded <span class=\"count\">(%s)</span>"
+msgid_plural "Refunded <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/product.php:224
+msgid "Remove variation"
+msgstr ""
+
+#: classes/notifications/responic.php:138
+msgid "Responic api token"
+msgstr ""
+
+#: template-parts/checkout-customer.php:220
+msgid "Save"
+msgstr ""
+
+#: classes/product.php:74
+msgid "Search Categories"
+msgstr ""
+
+#: classes/order.php:159
+msgid "Search order"
+msgstr ""
+
+#: classes/product.php:38
+msgid "Search Product"
+msgstr ""
+
+#: classes/customizer.php:430
+msgid "Select notification provider"
+msgstr ""
+
+#: classes/customizer.php:398
+msgid "Select shipping provider"
+msgstr ""
+
+#: page-cart.php:97
+msgid "selected item"
+msgstr ""
+
+#: comments.php:86
+msgid "Send Comment"
+msgstr ""
+
+#: comments-tikstore-product.php:86
+msgid "Send Review"
+msgstr ""
+
+#: classes/order.php:501
+msgid "Sent"
+msgstr ""
+
+#: template-parts/content-product.php:32
+#, php-format
+msgid "Ship from: %s"
+msgstr ""
+
+#: footer.php:23 classes/order.php:67 classes/customizer.php:68
+#: template-parts/content-product.php:30 template-parts/checkout-shipping.php:4
+#: functions/setup.php:334
+msgid "Shipping"
+msgstr ""
+
+#: classes/customizer.php:390
+msgid "Shipping general setting"
+msgstr ""
+
+#: classes/order.php:627
+msgid "Shipping Method"
+msgstr ""
+
+#: classes/customizer.php:69
+msgid "Shipping option"
+msgstr ""
+
+#: classes/customizer.php:397
+msgid "Shipping Provider"
+msgstr ""
+
+#: classes/order.php:322
+msgid "Shipping tracking number"
+msgstr ""
+
+#: template-parts/cart-item-empty.php:12
+msgid "Shop now"
+msgstr ""
+
+#: classes/customizer.php:792
+#, php-format
+msgid "Show %s payment method"
+msgstr ""
+
+#: classes/customizer.php:832
+#, php-format
+msgid "Show %s shipping image"
+msgstr ""
+
+#: classes/customizer.php:349
+#, php-format
+msgid "Show %s store link"
+msgstr ""
+
+#: classes/product.php:212
+msgid "Size"
+msgstr ""
+
+#: 404.php:18
+msgid "Sorry, the page you are looking for could not be found."
+msgstr ""
+
+#: classes/customizer.php:421
+msgid "Sparate phone number by \"|\""
+msgstr ""
+
+#: classes/order.php:300 classes/order.php:306 classes/order.php:504
+#: classes/order.php:653
+msgid "Status"
+msgstr ""
+
+#: template-parts/cart-items.php:58 template-parts/checkout-items.php:36
+msgid "Sub total:"
+msgstr ""
+
+#: template-parts/checkout-customer.php:139
+msgid "Subdisctrict"
+msgstr ""
+
+#: classes/order.php:433 template-parts/checkout-customer.php:136
+msgid "Subdistrict"
+msgstr ""
+
+#: classes/product.php:210
+msgid "Suitable for bundle or size variation"
+msgstr ""
+
+#: header.php:69 template-parts/checkout-summary.php:4
+msgid "Summary"
+msgstr ""
+
+#: page-thank.php:115
+msgid "Thank you for shopping in our shop."
+msgstr ""
+
+#. Name of the theme
+msgid "Tikstore"
+msgstr ""
+
+#. Author of the theme
+msgid "TiktokoTeam"
+msgstr ""
+
+#: classes/customizer.php:722
+msgid "Tiktok Pixel"
+msgstr ""
+
+#: classes/order.php:648 classes/payment-methods/manual-bank-transfer.php:76
+msgid "Title"
+msgstr ""
+
+#: template-parts/checkout-shipping.php:12
+msgid "To:"
+msgstr ""
+
+#: page-checkout.php:78 classes/order.php:613 classes/order.php:652
+#: template-parts/checkout-summary.php:19
+msgid "Total"
+msgstr ""
+
+#: page-thank.php:70
+msgid "Total : "
+msgstr ""
+
+#: classes/customizer.php:86
+msgid "Tracking"
+msgstr ""
+
+#: classes/customizer.php:676
+msgid "Tracking facebook pixel option"
+msgstr ""
+
+#: classes/customizer.php:87
+msgid "Tracking option"
+msgstr ""
+
+#: classes/customizer.php:723
+msgid "Tracking tiktok pixel option"
+msgstr ""
+
+#: classes/payment-methods/transfer-bank-bsi.php:23
+#: classes/payment-methods/transfer-bank-bri.php:23
+#: classes/payment-methods/transfer-bank-permata.php:23
+#: classes/payment-methods/transfer-bank-bca.php:21
+#: classes/payment-methods/transfer-bank-cimbniaga.php:23
+#: classes/payment-methods/transfer-bank-bni.php:23
+#: classes/payment-methods/transfer-bank-mandiri.php:23
+#: classes/payment-methods/transfer-bank-seabank.php:23
+msgid "Transfer your payment to one of he followng bank accounts"
+msgstr ""
+
+#: template-parts/checkout-customer.php:145
+msgid "Type 3 characters or more"
+msgstr ""
+
+#: template-parts/checkout-customer.php:143
+msgid "Type your subdisctrict"
+msgstr ""
+
+#: classes/product.php:79
+msgid "Update Category"
+msgstr ""
+
+#: classes/product.php:222
+msgid "Variation {#}"
+msgstr ""
+
+#: classes/order.php:157 classes/order.php:158
+msgid "View order"
+msgstr ""
+
+#: classes/product.php:36 classes/product.php:37
+msgid "View Product"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:136
+msgid "Where are orders shipped from?"
+msgstr ""
+
+#: classes/customizer.php:770
+msgid "Widget Payments"
+msgstr ""
+
+#: classes/customizer.php:809
+msgid "Widget shippings"
+msgstr ""
+
+#: functions/setup.php:327
+msgid "Yes, delete"
+msgstr ""
+
+#: single-tikstore-product.php:45
+msgid "You may also like"
+msgstr ""
+
+#: template-parts/cart-items.php:60
+msgid "You save:"
+msgstr ""
+
+#: classes/customizer.php:358
+#, php-format
+msgid "Your %s store link"
+msgstr ""
+
+#: template-parts/checkout-customer.php:201
+msgid "Your Address"
+msgstr ""
+
+#: template-parts/checkout-customer.php:85
+msgid "Your full name"
+msgstr ""
+
+#: page-thank.php:111
+msgid "Your order has been completed"
+msgstr ""
+
+#: page-thank.php:87
+msgid "Your order is being packed"
+msgstr ""
+
+#: page-thank.php:99
+msgid "Your order is on delivery"
+msgstr ""
+
+#: page-thank.php:66
+msgid "Your order waiting for payment"
+msgstr ""
+
+#: template-parts/checkout-customer.php:109
+msgid "Your phone number"
+msgstr ""
+
+#: classes/shippings/rajaongkir.php:135
+msgid "Your shipping origin"
+msgstr ""
